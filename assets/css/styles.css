@@ -1367,7 +1367,7 @@ button {
 
 .border-accent1 {
   --tw-border-opacity: 1;
-  border-color: rgb(238 95 56 / var(--tw-border-opacity));
+  border-color: #7091e6;
 }
 
 .border-gray-300 {
@@ -1885,7 +1885,7 @@ button {
 
 .text-accent1 {
   --tw-text-opacity: 1;
-  color: rgb(238 95 56 / var(--tw-text-opacity));
+  color: rgb(144 43 49);
 }
 
 .text-primary {
@@ -2298,7 +2298,7 @@ section {
 
 .solid-btn {
   --tw-bg-opacity: 1;
-  background-color: rgb(238 95 56 / var(--tw-bg-opacity));
+  background-color: rgb(180 76 76);
   --tw-text-opacity: 1;
   color: rgb(255 255 255 / var(--tw-text-opacity));
 }
@@ -3612,7 +3612,7 @@ button.is-checked {
 
 .dark .dark\:bg-dark_primary_bg {
   --tw-bg-opacity: 1;
-  background-color: rgb(33 36 40 / var(--tw-bg-opacity));
+  background-color: #030207;
 }
 
 .dark .dark\:bg-dark_accent1 {
@@ -3661,7 +3661,7 @@ button.is-checked {
 
 .dark .dark\:text-white {
   --tw-text-opacity: 1;
-  color: rgb(255 255 255 / var(--tw-text-opacity));
+  color: #5a699e;
 }
 
 .dark .dark\:text-slate-200 {
